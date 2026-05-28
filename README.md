@@ -24,4 +24,4 @@ This Power BI dashboard analyzes electric vehicle market trends, vehicle perform
 
 ## Dashboard Preview
 
-![Dashboard Preview]([dashboard-preview.png](https://github.com/shubhamthorat23/EV-Market-Intelligence-Dashboard/blob/main/ev_Market_dashboard-preview.png))
+![Dashboard Preview]([dashboard-preview.png](ev_Market_dashboard-preview.png))
